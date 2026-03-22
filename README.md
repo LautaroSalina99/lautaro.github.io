@@ -4,6 +4,7 @@
 ¡Hola! Soy Lautaro. Actualmente curso el 5to año de Ingeniería en Sistemas de Información en la Universidad de la Cuenca del Plata. Me apasiona resolver problemas complejos diseñando arquitecturas de software robustas y eficientes. 
 
 Mi enfoque principal está en el desarrollo web y la gestión de bases de datos, pero siempre busco ir un paso más allá optimizando flujos de trabajo mediante la automatización de procesos con herramientas como n8n. Además, dedico tiempo a explorar el campo de la Inteligencia Artificial.
+
 ---
 
 ## 👤 Datos Personales
