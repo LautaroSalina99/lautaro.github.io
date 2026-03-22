@@ -65,5 +65,10 @@ Podés ver o descargar mi CV detallado haciendo clic en el siguiente enlace:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
+**Aseguramiento de la Calidad (QA) & Testing:**
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 **Áreas de Enfoque e Interés Técnico:**
 * 🤖 **Sistemas Inteligentes / IA:** Interés en modelos de aprendizaje y Explainable AI (XAI).
